@@ -1,5 +1,5 @@
 # BrickBreakerGame_usingPython
-• This is my 2D Brick Breaker project developed in Python using Spyder environment(from Anaconda Navigator). 
+• This is my 2D Brick Breaker project developed in Python using Spyder tool(from Anaconda Navigator). 
 
 • The file "main_BrickBreakerProject.py" contains the code. 
 
